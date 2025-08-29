@@ -9,9 +9,9 @@
 <p align="center">
   I'm a Computer Science student from India 🇮🇳 with a passion for building efficient solutions and beautiful user interfaces.
   <br><br>
-  🌱 I’m currently diving deep into <strong>C++</strong> for competitive programming and sharpening my frontend skills with <strong>React</strong>.
+  🌱 I’m currently diving deep into <strong>C++</strong> for DSA and sharpening my frontend skills with <strong>React</strong>.
   <br>
-  💬 Feel free to ask me about <strong>Data Structures & Algorithms</strong>, <strong>Frontend Development</strong>, or the rollercoaster of <strong>college life</strong>!
+  💬 Feel free to ask me about <strong>Data Structures & Algorithms</strong>, <strong>Web Development</strong>, or <strong>ML</strong>
   <br>
   📫 You can reach me at: <strong><a href="mailto:almanfarooqui5@gmail.com">almanfarooqui5@gmail.com</a></strong>
 </p>
