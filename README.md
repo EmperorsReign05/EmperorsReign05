@@ -62,4 +62,4 @@
     </tr>
   </table>
 </div>
-<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://badgr.com/public/assertions/GDS9rfkYTVqQwX709kztuw"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/GDS9rfkYTVqQwX709kztuw/image"></a></blockquote>
+<!--<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://badgr.com/public/assertions/GDS9rfkYTVqQwX709kztuw"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/GDS9rfkYTVqQwX709kztuw/image"></a></blockquote>-->
