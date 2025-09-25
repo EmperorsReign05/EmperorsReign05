@@ -9,7 +9,7 @@
 <p align="center">
   I'm a Computer Science student from India 🇮🇳 with a passion for building efficient solutions and beautiful user interfaces.
   <br><br>
-  🌱 I’m currently diving deep into <strong>C++</strong> for DSA and sharpening my frontend skills with <strong>React</strong>.
+  🌱 I’m currently diving deep into <strong>C++</strong> for DSA and sharpening my frontend skills with <strong>React</strong>. 
   <br>
   💬 Feel free to ask me about <strong>Data Structures & Algorithms</strong>, <strong>Web Development</strong>, or <strong>ML</strong>
   <br>
