@@ -11,9 +11,9 @@
   <br><br>
   🌱 I’m currently diving deep into <strong>C++</strong> for DSA and sharpening my frontend skills with <strong>React</strong>. 
   <br>
-  💬 Feel free to ask me about <strong>Data Structures & Algorithms</strong>, <strong>Web Development</strong>, or <strong>ML</strong>
+ 
   <br>
-  📫 You can reach me at: <strong><a href="mailto:almanfarooqui5@gmail.com">almanfarooqui5@gmail.com</a></strong>
+  📫 Reach me at: <strong><a href="mailto:almanfarooqui5@gmail.com">almanfarooqui5@gmail.com</a></strong>
 </p>
 
 <h2 align="center">🤝 Connect with Me</h2>
