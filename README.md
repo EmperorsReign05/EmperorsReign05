@@ -1,4 +1,4 @@
-<p  align="center">
+<!--<p  align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=33FF33&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Alman+Farooqui;A+Passionate+Developer;A+Lifelong+Learner" alt="Typing SVG">
   </a>
@@ -10,7 +10,7 @@
   I'm a Computer Science student from India 🇮🇳 with a passion for building efficient solutions and beautiful user interfaces.
   <br><br>
   🌱 I’m currently diving deep into <strong>C++</strong> for DSA and sharpening my frontend skills with <strong>React</strong>. 
-  <br>
+  <br> -->
  
   <br>
   📫 Reach me at: <strong><a href="mailto:almanfarooqui5@gmail.com">almanfarooqui5@gmail.com</a></strong>
