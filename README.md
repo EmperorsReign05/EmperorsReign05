@@ -1,7 +1,7 @@
 ## Mohammad Alman Farooqui
 
-CS student · India 🇮🇳 · Building things on the web  
-📫 [almanfarooqui5@gmail.com](mailto:almanfarooqui5@gmail.com)
+CS student · Building things on the web  
+ [almanfarooqui5@gmail.com](mailto:almanfarooqui5@gmail.com)
 
 ---
 
@@ -22,4 +22,4 @@ Exploring `Python` · Building UIs with `React` & `Next.js`
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/mohammad-alman-farooqui-10a2b6256/) · [Email](mailto:almanfarooqui5@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohammad-alman-farooqui-10a2b6256/) · [X](https://x.com/almanfarooqui_1)
