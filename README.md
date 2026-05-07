@@ -5,11 +5,11 @@ CS student · Building things on the web
 
 ---
 
-**Currently**  
+<!--**Currently**  
 Exploring `Python` · Building UIs with `React` & `Next.js`
-
+-->
 **Stack**  
-`Pythpn` `JavaScript` `TypeScript` `HTML` `CSS` `React` `Next.js` `Node.js` `Git`
+`Python` `TypeScript` `Next.js` 
 
 ---
 
