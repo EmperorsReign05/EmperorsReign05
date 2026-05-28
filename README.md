@@ -1,5 +1,5 @@
 ## Mohammad Alman Farooqui
-[![Mohammad Alman Farooqui profile views](https://u8views.com/api/v1/github/profiles/172951020/views/day-week-month-total-count.svg)](https://u8views.com/github/EmperorsReign05)
+<!--[![Mohammad Alman Farooqui profile views](https://u8views.com/api/v1/github/profiles/172951020/views/day-week-month-total-count.svg)](https://u8views.com/github/EmperorsReign05) -->
 CS student · Building things on the web  
  [almanfarooqui5@gmail.com](mailto:almanfarooqui5@gmail.com)
 
